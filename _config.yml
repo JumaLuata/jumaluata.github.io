@@ -96,21 +96,18 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://yaoxudong.top"
-    },{
-        title: "简书",
-        href: "http://www.cslg.cn"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+# # Friends
+# friends: [
+#     {
+#         title: "WY",
+#         href: "http://yaoxudong.top"
+#     },{
+#         title: "简书",
+#         href: "http://www.cslg.cn"
+#     },{
+#         title: "Apple",
+#         href: "https://www.apple.com"
+#     }
+# ]
 
 theme: jekyll-theme-cayman

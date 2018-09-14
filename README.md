@@ -4,30 +4,27 @@
 > 
 > 更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 > 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
-
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
 
 ## 使用
 
 * 开始
-	* [环境](#环境)
-	* [开始](#开始)
-	* [撰写博文](#撰写博文)
+    * [环境](#环境)
+    * [开始](#开始)
+    * [撰写博文](#撰写博文)
 * 组件
-	* [侧边栏](#侧边栏)
-	* [迷你关于我](#mini-about-me)
-	* [推荐标签](#featured-tags)
-	* [好友链接](#friends)
-	* [HTML5 演示文档布局](#keynote-layout)
+    * [侧边栏](#侧边栏)
+    * [迷你关于我](#mini-about-me)
+    * [推荐标签](#featured-tags)
+    * [好友链接](#friends)
+    * [HTML5 演示文档布局](#keynote-layout)
 * 评论与 Google/Baidu Analytics
-	* [评论](#comment)
-	* [网站分析](#analytics) 
+    * [评论](#comment)
+    * [网站分析](#analytics) 
 * 高级部分
-	* [自定义](#customization)
-	* [标题底图](#header-image)
-	* [搜索展示标题-头文件](#seo-title)
+    * [自定义](#customization)
+    * [标题底图](#header-image)
+    * [搜索展示标题-头文件](#seo-title)
 
 
 
@@ -44,8 +41,8 @@
 ```
 # Site settings
 title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
+SEOTitle: 柏荧的博客 | BY Blog       # SEO 标题
+description: "Hey"         # 随便说点，描述一下
 
 # SNS settings      
 github_username: qiubaiying     # 你的github账号
@@ -71,7 +68,7 @@ subtitle:   iOS定时器详解
 date:       2016-12-13
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
-catalog: 	 true
+catalog:     true
 tags:
     - iOS
     - 定时器
@@ -119,15 +116,15 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 
 在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/e71990ada2fd>
 
-	# SNS settings
-	RSS: false
-	jianshu_username: 	jianshu_id 
-	zhihu_username:     username
-	facebook_username:  username
-	github_username:    username
-	# weibo_username:   username
-	
-	
+    # SNS settings
+    RSS: false
+    jianshu_username:   jianshu_id 
+    zhihu_username:     username
+    facebook_username:  username
+    github_username:    username
+    # weibo_username:   username
+    
+    
 
 ![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
 
@@ -217,7 +214,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
+ga_domain: huangxuan.me         # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 ```
 
 ### Customization
@@ -269,4 +266,6 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 ## License
 
 遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+
+
 
